@@ -71,7 +71,7 @@ Ensure you have the following installed:
      ```
 ## 🔗 Contact
 - **Email**: pranavk2004915@gmail.com
-- **GitHub**: [your-username](https://github.com/Pranavvv12)
+- **GitHub**: [Pranavv](https://github.com/Pranavvv12)
 
 ---
 _🚀 Empowering healthcare with technology!_
